@@ -1,3 +1,5 @@
 Ejemplo de spritesheet en canvas
+  
+Mover a ash con las flechas del teclado
 
-enlace: http://daniikpando.github.io/spriteSheet/
+Enlace: http://daniikpando.github.io/spriteSheet/
